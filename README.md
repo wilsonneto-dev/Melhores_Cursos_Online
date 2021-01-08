@@ -27,6 +27,8 @@ Um ótimo curso para quem está começando e quer focar o inicio de carreira em 
 [https://bit.ly/fullstack-dev-pleno](https://bit.ly/fullstack-dev-pleno)
 
 
+### AlgoMania
+
 E caso queira aprimorar suas habilidades em algoritmos para criar algoritmos melhores, mais perfomáticos e mais otimizados, e até mesmo se preparar melhor para entrevistas que cobram temas como "complexidade ciclomática" e "Big O notation", que são temas extremamente importantes e cobrados em entrevistas internacionais, o curso abaixo do AlgoMania é excelente:
 
 [http://bit.ly/algomania-algoritimos](http://bit.ly/algomania-algoritimos)

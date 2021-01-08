@@ -1,5 +1,7 @@
 # Melhores_Cursos_Online
 
+`Melhores cursos sobre JS: ReactJS, ReactNative e Node`
+
 :blue_book: 📘 Repositório com indicações de cursos sobre React, Node, RN e desenvolvimento em geral de cursos que fiz gostei muito e indico para quem está começando e quer indicações.
 
 OneBitCode - FullTSack JS

@@ -4,7 +4,7 @@
 
 :blue_book: :rocket: Repositório com indicações de cursos sobre React, Node, RN e desenvolvimento em geral de cursos que fiz gostei muito e indico para quem está começando e quer indicações.
 
-OneBitCode - FullTSack JS
+OneBitCode - FullStack JS
 Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript
 ### OneBitCode - FullTSack JS
 `Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript`

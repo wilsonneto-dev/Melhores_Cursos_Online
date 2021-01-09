@@ -6,7 +6,7 @@
 
 OneBitCode - FullStack JS
 Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript
-### OneBitCode - FullTSack JS
+### OneBitCode - FullStack JS
 `Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript`
 
 [https://bit.ly/onebitcode-fullstack-js](https://bit.ly/onebitcode-fullstack-js)

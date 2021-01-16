@@ -4,13 +4,6 @@
 
 :blue_book: :rocket: Repositório com indicações de cursos sobre React, Node, RN e desenvolvimento em geral de cursos que fiz gostei muito e indico para quem está começando e quer indicações.
 
-OneBitCode - FullStack JS
-Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript
-### OneBitCode - FullStack JS
-`Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript`
-
-[https://bit.ly/onebitcode-fullstack-js](https://bit.ly/onebitcode-fullstack-js?utm_source=ghrepo&src=ghrepo)
-
 ### DevPleno - ReactJS
 `Um curso com um custo benefício muito legal, focado em react js, ideal para quem quer dar os primeiros passos com a tecnologia`
 

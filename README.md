@@ -17,7 +17,7 @@
 ### GoStack - Rocketseat
 `Um curso muito completo que aborda desde os primeiros passos com a stack js até arquitetura, TDD e SOLID. Muito bom!`
 
-[https://rocketseat.com.br/](https://rocketseat.com.br/?utm_source=ghrepo&src=ghrepo)
+[https://bit.ly/rocketseat-site](https://bit.ly/rocketseat-site)
 
 ### DevPleno - Fullstack Master
 `UM curso também com um custo benefício muito bom onde é abordado desde os primeiros passos a questões de arquitetura tanto no front, back quando no mobile`

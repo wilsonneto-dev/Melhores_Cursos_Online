@@ -35,14 +35,5 @@ Estes são os últimos cursos que fiz e que gostei de verdade a ponto de recomen
 
 Em breve atualizarei a lista ;)
 
----- 
-
-### Novidades semanais sobre o mundo do desenvolvimento e JS/TS
-
-Fique atualizado com as principais novidades do mundo de desenvolvimento JS, TS, Node, React, React Native, NextJS, Frameworks JS e muito mais!
-
-Se inscreva para receber em: [https://novidadesjs.substack.com/welcome](https://novidadesjs.substack.com/welcome)
-
-
 Abraços!
 

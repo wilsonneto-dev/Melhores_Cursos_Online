@@ -4,6 +4,7 @@
 
 :blue_book: :rocket: Repositório com indicações de cursos sobre React, Node, RN e desenvolvimento em geral de cursos que fiz gostei muito e indico para quem está começando e quer indicações.
 
+---
 ### OneBitCode - FullStack JS	
 Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript, aprenda desde o básico até questões avançadas e arquiteturais sobre Node, ReactJS e features avançadas do JS/ES. O melhor caminho para quem está começando e quer se tornar um fullstack. 
 
@@ -28,6 +29,7 @@ E caso queira aprimorar suas habilidades em algoritmos para criar algoritmos mel
 
 :rocket: [http://bit.ly/algomania-algoritimos](http://bit.ly/algomania-algoritimos?utm_source=ghrepo&src=ghrepo)
 
+---
 Estes são os últimos cursos que fiz e que gostei de verdade a ponto de recomendar.
 
 Em breve atualizarei a lista ;)

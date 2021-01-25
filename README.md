@@ -7,7 +7,7 @@
 ### OneBitCode - FullStack JS	
 Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript
 
-:rocket: https://bit.ly/onebitcode-fullstack-js](https://bit.ly/onebitcode-fullstack-js?utm_source=ghrepo&src=ghrepo)	
+:rocket: [https://bit.ly/onebitcode-fullstack-js](https://bit.ly/onebitcode-fullstack-js?utm_source=ghrepo&src=ghrepo)	
 
 ### DevPleno - ReactJS
 Um curso com um custo benefício muito legal, focado em react js, ideal para quem quer dar os primeiros passos com a tecnologia

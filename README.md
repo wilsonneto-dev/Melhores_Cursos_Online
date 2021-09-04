@@ -17,8 +17,8 @@ Um curso com um ótimo custo benefício, focado em ReactJS, ideal para aqueles q
 :rocket: [https://bit.ly/reactjs-dev-pleno](https://bit.ly/reactjs-dev-pleno?utm_source=ghrepo&src=ghrepo)
 
 ---
-### GoStack - Rocketseat
-Um curso muito completo que aborda desde os primeiros passos com a stack js até arquitetura, TDD e SOLID. Muito bom!
+### Ignite e Experts Club- Rocketseat
+Uma plataforma com trilhas de React, React Native, Node e muito mais, muito completo que aborda desde os primeiros passos com a stack js até arquitetura, TDD e SOLID. Muito bom! o Experts Club é uma comunidade fenomenal que reúne uma galera de elite do mercado de desenvolvimento.
 
 :rocket: [https://bit.ly/rocketseat-site](https://bit.ly/rocketseat-site)
 

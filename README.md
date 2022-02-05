@@ -1,4 +1,4 @@
-# Melhores_Cursos_Online
+# Melhores Cursos de JS, React, Node e TypeScript
 
 `Melhores cursos sobre JS: ReactJS, ReactNative e Node`
 

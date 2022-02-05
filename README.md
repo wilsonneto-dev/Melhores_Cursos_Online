@@ -7,7 +7,7 @@
 ---
 
 ### OneBitCode - FullStack JS	
-Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript, aprenda desde o básico até questões avançadas e arquiteturais sobre Node, ReactJS e features avançadas do JS/ES. O melhor caminho para quem está começando e quer se tornar um fullstack.
+Um ótimo curso para quem está começando e quer focar o inicio de carreira em javascript, aprenda desde o básico até questões avançadas e arquiteturais sobre Node, ReactJS e features avançadas do JS/ES. O melhor caminho para quem está começando e quer se tornar um fullstack. Um ótimo custo benefício.
 
 :rocket::link: [https://bit.ly/onebitcode-fullstack-js](https://bit.ly/onebitcode-fullstack-js?utm_source=ghrepo&src=ghrepo)	
 

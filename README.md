@@ -13,6 +13,13 @@ Um ótimo curso para quem está começando e quer focar o inicio de carreira em 
 
 ---
 
+### 30 Desafios de javascript para se preparar para entrevistas	
+Este cursos consiste em diversos desafios do básico ao avançado para se preparar para entrevistas e aprender muito sobre javascript, esteja você buscando sua primeira vaga ou querendo alçar voôs maiores.
+
+:rocket::link: [https://bit.ly/desafios-para-entrevistas](https://bit.ly/desafios-para-entrevistas)	
+
+---
+
 ### DevPleno - ReactJS
 Um curso com um ótimo custo benefício, focado em ReactJS, ideal para aqueles que querem iniciar sua carreira focados em front-end, em algumas situações é interessante focar os estudos no frontend, e quando dominar o frontend seguir para aprender backend. É um ótimo curso que aborda do básico ao avançado, arquitetura, testes, tudo que é necessário para dominar o front.
 

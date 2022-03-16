@@ -20,18 +20,10 @@ Este cursos consiste em diversos desafios do básico ao avançado para se prepar
 
 ---
 
-### DevPleno - ReactJS
-Um curso com um ótimo custo benefício, focado em ReactJS, ideal para aqueles que querem iniciar sua carreira focados em front-end, em algumas situações é interessante focar os estudos no frontend, e quando dominar o frontend seguir para aprender backend. É um ótimo curso que aborda do básico ao avançado, arquitetura, testes, tudo que é necessário para dominar o front.
-
-:rocket::link: [https://bit.ly/reactjs-dev-pleno](https://bit.ly/reactjs-dev-pleno?utm_source=ghrepo&src=ghrepo)
-
----
-
 ### Ignite e Experts Club- Rocketseat
 Uma plataforma com trilhas de React, React Native, Node e muito mais, muito completo que aborda desde os primeiros passos com a stack js até arquitetura, TDD e SOLID. Muito bom! o Experts Club é uma comunidade fenomenal que reúne uma galera de elite do mercado de desenvolvimento.
 
 :rocket::link: [https://bit.ly/rocketseat-site](https://bit.ly/rocketseat-site)
-
 
 ---
 
